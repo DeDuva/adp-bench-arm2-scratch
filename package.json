@@ -1,5 +1,6 @@
 {
-  "name": "arm2-scratch",
+  "name": "arm2-titlecase-task",
   "private": true,
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "type": "module"
 }
